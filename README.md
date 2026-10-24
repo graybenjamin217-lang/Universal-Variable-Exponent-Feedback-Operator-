@@ -45,7 +45,7 @@ Run the scripts in the `scripts/` directory to execute the numerical validation 
 * `scripts/fig.3_stability_threshold.py` — Maps derivative-based stability boundaries, identifying $x_{\text{crit}} \approx 0.7258$ and the local contraction radius $\delta \approx 0.27417$.
 * `scripts/fig.4_dsi_filtering.py` — Simulates Discrete State Integration (DSI) under sub-critical continuous phase fluctuations to demonstrate quadratic error suppression toward unity.
 * `scripts/fig.5_bch_shear_suppression.py` — Evaluates symmetric multi-operator configurations $e^{\hat{X}/2} e^{\hat{Y}} e^{\hat{X}/2}$ via Baker-Campbell-Hausdorff expansion to verify the suppression of linear commutator noise.
-* `scripts/fig.6_DSI_Convergence.py` -This script models the discrete state integration (DSI) iteration process, evaluating how initial perturbation magnitudes within the stability threshold (\delta \approx 0.27417) and continuous sub-critical noise amplitudes are autonomously suppressed toward unity.  
+* `scripts/fig.6_DSI_Convergence.py` -This script models the discrete state integration (DSI) iteration process, evaluating how initial perturbation magnitudes within the stability threshold ($\delta \approx 0.27417$) and continuous sub-critical noise amplitudes are autonomously suppressed toward unity.  
 
 ---
 
