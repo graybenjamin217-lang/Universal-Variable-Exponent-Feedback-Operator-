@@ -1,4 +1,4 @@
-# Universal Feedback Operator: Autonomous Renormalization in $C^*$-Algebras
+# Universal Feedback Operator: Discrete State Intergration (DSI) in $C^*$-Algebras
 
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23137306.svg)](https://doi.org/10.5281/zenodo.23137306)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
