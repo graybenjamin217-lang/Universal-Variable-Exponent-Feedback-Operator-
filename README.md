@@ -61,3 +61,11 @@ If you utilize this feedback operator framework or numerical simulation suite in
   year={2026},
   doi={10.5281/zenodo.23137306}
 }
+```
+
+---
+## Companion Insight & Perspective
+
+For those interested in a more grounded perspective in to the Abstract Concepts of this work please visit my Substack Repository for Insight:
+
+https://benjamin256464.substack.com/p/the-echo-in-the-machine?r=99f2hz&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
