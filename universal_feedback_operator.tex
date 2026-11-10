@@ -164,7 +164,7 @@ C_\delta = \frac{1}{2} \max_{|h| \le \delta} |f''(1+h)|
 \end{equation}
 Evaluating $|f''(x)|$ over the closed interval $[1 - \delta, 1 + \delta] \approx [0.72583, 1.27417]$, the maximum occurs at the lower endpoint $x_{\text{crit}}$, where $|f''(0.72582784)| \approx 5.6256$. This yields the Taylor bound:
 \begin{equation}
-C_\delta \approx 2.813 \quad \left(\text{with sharp functional-calculus constant } K_\delta = \sup_{|h| \le \delta} \frac{|f(1+h) - 1|}{h^2} \approx 1.517\right)
+C_\delta \approx 2.813 \quad \left(\text{with sharp quadratic error coefficient } K_\delta = \sup_{|h| \le \delta} \frac{|f(1+h) - 1|}{h^2} \approx 1.517\right)
 \end{equation}
 This estimate establishes local quadratic convergence toward the identity for all self-adjoint perturbations within the stability neighborhood $\delta \approx 0.27417$.
 
